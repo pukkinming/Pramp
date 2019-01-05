@@ -10,3 +10,4 @@ Attempts include:
 - [Pancake Sort](./Pancake%20Sort/Pancake%20Sort.ipynb)
 - [Sales Path](./Sales%20Path/Sales%20Path.ipynb)
 - [Matrix Spiral Copy](./Matrix%20Spiral%20Copy/Matrix%20Spiral%20Copy.ipynb)
+- [Getting Different Number](./Getting%20a%20Different%20Number/Getting%20a%20Different%20Number.ipynb)
